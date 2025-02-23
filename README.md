@@ -70,4 +70,4 @@ License
 
 This project is licensed under the MIT License.
 
-Note: This script is intended for educational purposes to demonstrate basic steganography concepts.
+
