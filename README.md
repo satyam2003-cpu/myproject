@@ -43,7 +43,7 @@ Place the image (e.g., mypic.jpg) in the script's directory.
 
 2. Run the Script:
 
-python stego.py
+https://github.com/satyam2003-cpu/myproject/blob/main/stego.py
 
 
 3. Follow the Prompts:
